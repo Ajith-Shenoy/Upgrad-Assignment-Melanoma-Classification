@@ -55,7 +55,7 @@ The data set contains the following diseases:
 
 ## Conclusions
 
-The final model has an accuracy of 83% and a loss of 0.45. The model is able to predict the class of the lesion with a high accuracy. Augmenting the data and countering class imbalance helped in improving the accuracy of the model.
+The final model has an accuracy of 82%.The model is able to predict the class of the lesion with a high accuracy. Augmenting the data and countering class imbalance helped in improving the accuracy of the model.
 
 ## Contact
 
